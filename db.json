@@ -1,0 +1,154 @@
+{
+  "products": [
+      {
+        "id": 1,
+        "name": "T-shirt",
+        "description": "Soft and comfortable cotton t-shirt.",
+        "price": 150
+      },
+      {
+        "id": 2,
+        "name": "Jeans",
+        "description": "Classic blue denim jeans.",
+        "price": 300
+      },
+      {
+        "id": 3,
+        "name": "Sneakers",
+        "description": "Stylish and durable sports shoes.",
+        "price": 500
+      },
+      {
+        "id": 4,
+        "name": "Backpack",
+        "description": "Spacious backpack with multiple compartments.",
+        "price": 100
+      },
+      {
+        "id": 5,
+        "name": "Watch",
+        "description": "Elegant wristwatch with a leather strap.",
+        "price": 1500
+      },
+      {
+        "id": 6,
+        "name": "Headphones",
+        "description": "High-quality headphones for immersive audio experience.",
+        "price": 2000
+      },
+      {
+        "id": 7,
+        "name": "Sunglasses",
+        "description": "Trendy sunglasses with UV protection.",
+        "price": 1200
+      },
+      {
+        "id": 8,
+        "name": "Smartphone",
+        "description": "Advanced smartphone with a high-resolution display.",
+        "price": 1300
+      },
+      {
+        "id": 9,
+        "name": "Laptop",
+        "description": "Powerful laptop for work and entertainment.",
+        "price": 35000
+      },
+      {
+        "id": 10,
+        "name": "Desk Lamp",
+        "description": "Modern LED desk lamp with adjustable brightness.",
+        "price": 500
+      },
+      {
+        "id": 11,
+        "name": "Coffee Maker",
+        "description": "Automatic coffee maker with programmable settings.",
+        "price": 300
+      },
+      {
+        "id": 12,
+        "name": "Toaster",
+        "description": "Stainless steel toaster with multiple browning settings.",
+        "price": 800
+      },
+      {
+        "id": 13,
+        "name": "Electric Kettle",
+        "description": "Fast-boiling electric kettle with a stylish design.",
+        "price": 1400
+      },
+      {
+        "id": 14,
+        "name": "Yoga Mat",
+        "description": "Non-slip yoga mat for comfortable workouts.",
+        "price": 200
+      },
+      {
+        "id": 15,
+        "name": "Resistance Bands",
+        "description": "Set of resistance bands for strength training.",
+        "price": 900
+      },
+      {
+        "id": 16,
+        "name": "Dumbbell Set",
+        "description": "Adjustable dumbbell set for home workouts.",
+        "price": 1100
+      },
+      {
+        "id": 17,
+        "name": "Jump Rope",
+        "description": "Durable jump rope for cardio workouts.",
+        "price": 300
+      },
+      {
+        "id": 18,
+        "name": "Water Bottle",
+        "description": "Reusable water bottle with a leak-proof design.",
+        "price": 20
+      },
+      {
+        "id": 19,
+        "name": "Travel Mug",
+        "description": "Insulated travel mug to keep beverages hot or cold.",
+        "price": 120
+      },
+      {
+        "id": 20,
+        "name": "Wireless Mouse",
+        "description": "Ergonomic wireless mouse with precision tracking.",
+        "price": 1300
+      },
+      {
+        "id": 21,
+        "name": "External Hard Drive",
+        "description": "Portable external hard drive for data storage.",
+        "price": 7000
+      },
+      {
+        "id": 22,
+        "name": "USB Flash Drive",
+        "description": "Compact USB flash drive for transferring files.",
+        "price": 400
+      },
+      {
+        "id": 23,
+        "name": "Bluetooth Speaker",
+        "description": "Wireless Bluetooth speaker for music playback.",
+        "price": 1200
+      },
+      {
+        "id": 24,
+        "name": "Gaming Mouse Pad",
+        "description": "Large gaming mouse pad for precise mouse control.",
+        "price": 800
+      },
+      {
+        "id": 25,
+        "name": "Fitness Tracker",
+        "description": "Smart fitness tracker to monitor activity and health.",
+        "price": 2200
+      }
+  ]
+}
